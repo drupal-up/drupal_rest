@@ -1,0 +1,22 @@
+uuid: 2a7d73a8-8f40-4a28-b04c-f0d686d218e8
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - material_admin
+_core:
+  default_config_hash: 6ANfHFYdqyPgGyd6fgurzphLbqLUVo2aa7rcjNyZ-_0
+id: material_admin_messages
+theme: material_admin
+region: status
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

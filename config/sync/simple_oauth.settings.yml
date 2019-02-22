@@ -1,0 +1,7 @@
+access_token_expiration: 99999
+refresh_token_expiration: 99999
+remember_clients: true
+_core:
+  default_config_hash: iIf5HmjnxW8tLdod1EQ19q4RQ5mkg-r5wBn2QFmitr8
+public_key: ../keys/public.key
+private_key: ../keys/private.key
